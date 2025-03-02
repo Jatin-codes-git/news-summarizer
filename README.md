@@ -11,7 +11,8 @@ An AI-powered tool that scrapes news articles from URLs and summarizes them usin
 
 ## 📸 Demo Screenshot
 
-![News Summarizer Screenshot](Screenshot2025-03-02 11.39.42PM.png)
+![News Summarizer Screenshot]<img src="Screenshot.png" width="600px">
+
 
 
 ## 🛠️ Tech Stack
